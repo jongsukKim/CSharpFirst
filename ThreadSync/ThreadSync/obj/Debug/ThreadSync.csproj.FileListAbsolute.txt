@@ -1,0 +1,11 @@
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\ThreadSync\ThreadSync\bin\Debug\ThreadSync.exe.config
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\ThreadSync\ThreadSync\bin\Debug\ThreadSync.exe
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\ThreadSync\ThreadSync\bin\Debug\ThreadSync.pdb
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\ThreadSync\ThreadSync\obj\Debug\ThreadSync.csproj.AssemblyReference.cache
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\ThreadSync\ThreadSync\obj\Debug\ThreadSync.csproj.SuggestedBindingRedirects.cache
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\ThreadSync\ThreadSync\obj\Debug\ThreadSync.Form1.resources
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\ThreadSync\ThreadSync\obj\Debug\ThreadSync.Properties.Resources.resources
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\ThreadSync\ThreadSync\obj\Debug\ThreadSync.csproj.GenerateResource.cache
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\ThreadSync\ThreadSync\obj\Debug\ThreadSync.csproj.CoreCompileInputs.cache
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\ThreadSync\ThreadSync\obj\Debug\ThreadSync.exe
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\ThreadSync\ThreadSync\obj\Debug\ThreadSync.pdb

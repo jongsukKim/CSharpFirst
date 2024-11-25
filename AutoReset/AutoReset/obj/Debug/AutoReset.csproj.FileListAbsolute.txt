@@ -1,0 +1,11 @@
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\AutoReset\AutoReset\bin\Debug\AutoReset.exe.config
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\AutoReset\AutoReset\bin\Debug\AutoReset.exe
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\AutoReset\AutoReset\bin\Debug\AutoReset.pdb
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\AutoReset\AutoReset\obj\Debug\AutoReset.csproj.AssemblyReference.cache
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\AutoReset\AutoReset\obj\Debug\AutoReset.csproj.SuggestedBindingRedirects.cache
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\AutoReset\AutoReset\obj\Debug\AutoReset.Form1.resources
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\AutoReset\AutoReset\obj\Debug\AutoReset.Properties.Resources.resources
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\AutoReset\AutoReset\obj\Debug\AutoReset.csproj.GenerateResource.cache
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\AutoReset\AutoReset\obj\Debug\AutoReset.csproj.CoreCompileInputs.cache
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\AutoReset\AutoReset\obj\Debug\AutoReset.exe
+C:\Users\hkhk9\OneDrive\바탕 화면\C#_part1\AutoReset\AutoReset\obj\Debug\AutoReset.pdb
